@@ -38,3 +38,15 @@ System Prompt
 You are an AI assistant designed to answer user queries accurately
 using the provided context. Use retrieved documents, memory,
 and instructions to generate clear, concise, and helpful responses.
+
+##Evaluation Results
+Produces relevant, context-aware answers using a RAG pipeline
+Reliable retrieval with vector search and consistent prompting via MCP
+Structured agent flow using LangGraph improves response quality
+
+##Key Trade-offs & Improvements
+Local models trade quality for cost and privacy
+Simple agent design limits advanced reasoning
+With more time:
+Improve retrieval accuracy and agent workflows
+Add performance optimization and scalable deployment
